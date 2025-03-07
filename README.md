@@ -75,7 +75,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/jpayansh/live-docs.git
-cd collaborative-editor
+cd live-docs
 ```
 
 **Installation**
